@@ -30,7 +30,7 @@ this is my projects code :P
 
   <style>   
 
- body {            font-family: Arial, sans-serif;            padding: 20px;        } 
+body {            font-family: Arial, sans-serif;            padding: 20px;        } 
 
       input, button {            margin: 5px 0;        }
 
@@ -54,7 +54,7 @@ this is my projects code :P
 
 function teskariAylantir() {     
 
- var matn = document.getElementById('matn').value;         
+var matn = document.getElementById('matn').value;         
 
 var teskariMatn = matn.split('').reverse().join(''); 
 
