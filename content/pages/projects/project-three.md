@@ -24,15 +24,15 @@ this is my projects code :P
 
     <meta charset="UTF-8"> 
 
-   <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
 
-  <title>Matnni Teskari Aylantirish</title>  
+  <title>Matnni Teskari Aylantirish</title> 
 
   <style>   
 
-     body {            font-family: Arial, sans-serif;            padding: 20px;        } 
+ body {            font-family: Arial, sans-serif;            padding: 20px;        } 
 
-       input, button {            margin: 5px 0;        }
+      input, button {            margin: 5px 0;        }
 
     </style>
 
@@ -48,25 +48,23 @@ this is my projects code :P
 
  <h2>result</h2> 
 
-   <p id="natija"></p>
+  <p id="natija"></p>
 
+\<script>   
 
-    \<script>    
+function teskariAylantir() {     
 
-    function teskariAylantir() {      
+ var matn = document.getElementById('matn').value;         
 
-      var matn = document.getElementById('matn').value;         
+var teskariMatn = matn.split('').reverse().join(''); 
 
-   var teskariMatn = matn.split('').reverse().join(''); 
+document.getElementById('natija').innerText = teskariMatn;   
 
-           document.getElementById('natija').innerText = teskariMatn;   
+} 
 
-     } 
-
-   </script>
+  </script>
 
 </body>
 
 </html>
-
 
