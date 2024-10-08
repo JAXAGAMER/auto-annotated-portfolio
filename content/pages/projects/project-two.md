@@ -12,7 +12,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/pohoto-20183408127478y.jpg
-  altText: Project image
+  altText: the code of my project
 ---
 *   \*\*Here's some quotes about developing:\*
     *   \*\* **1. "The journey of a thousand miles begins with one step."** Lao Tzu\*
