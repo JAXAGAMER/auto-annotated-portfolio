@@ -5,10 +5,6 @@ colors: colors-a
 date: '2024-10-08'
 client: Welcome
 description: ''
-featuredImage:
-  type: ImageBlock
-  url: /images/bg3.jpg
-  altText: Project thumbnail image
 media:
   type: ImageBlock
   url: /images/photo_2024-10-08_18-22-20.jpg
