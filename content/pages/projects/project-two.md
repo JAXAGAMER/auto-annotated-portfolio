@@ -11,7 +11,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/image_2024-10-08_18-03-04.png
+  url: /images/pohoto-20183408127478y.jpg
   altText: Project image
 ---
 *   \*\*Here's some quotes about developing:\*
