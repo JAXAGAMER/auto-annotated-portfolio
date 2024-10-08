@@ -11,7 +11,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/Снимок экрана (1).png
   altText: Project image
 ---
 *   \*\*Here's some quotes about developing:\*
