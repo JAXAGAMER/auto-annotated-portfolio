@@ -14,7 +14,8 @@ media:
   url: /images/photo_2024-10-08_18-22-20.jpg
   altText: Project image
 ---
-<!DOCTYPE html>
+> <!DOCTYPE html>
+
 <html lang="uz">
 <head>
     <meta charset="UTF-8">
@@ -37,12 +38,16 @@ media:
     <h2>result</h2>
     <p id="natija"></p>
 
-    <script>
-        function teskariAylantir() {
-            var matn = document.getElementById('matn').value;
-            var teskariMatn = matn.split('').reverse().join('');
-            document.getElementById('natija').innerText = teskariMatn;
-        }
-    </script>
+```
+<script>
+    function teskariAylantir() {
+        var matn = document.getElementById('matn').value;
+        var teskariMatn = matn.split('').reverse().join('');
+        document.getElementById('natija').innerText = teskariMatn;
+    }
+</script>
+```
+
 </body>
 </html>
+
