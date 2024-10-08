@@ -13,11 +13,12 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >+
+      ## I'm a new developer if y'all wanna help me please do  my nickname is
+      JAXA and I love games a lot I need somebody to maybe teach me how to
+      develop games/apps for telephones or maybe for pc too so help if you can
+      :D
+
     media:
       type: ImageBlock
       url: /images/Software-developer.jpg
