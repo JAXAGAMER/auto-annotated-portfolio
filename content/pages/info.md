@@ -14,10 +14,10 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      ## I'm a new developer if y'all wanna help me please do  my nickname is
-      JAXA and I love games a lot I need somebody to maybe teach me how to
-      develop games/apps for telephones or maybe for pc too so help if you can
-      :D
+      ## Hi, i'm a new developer, if y'all wanna help me, please do.  My
+      nickname is JAXA and I love games a lot. I need somebody to maybe teach me
+      how to develop games/apps for telephones or maybe for pc too, so help if
+      you can :D
 
     media:
       type: ImageBlock
