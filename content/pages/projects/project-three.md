@@ -3,7 +3,7 @@ type: ProjectLayout
 title: One more cool project
 colors: colors-a
 date: '2024-10-08'
-client: Awesome client
+client: Welcome
 description: ''
 featuredImage:
   type: ImageBlock
