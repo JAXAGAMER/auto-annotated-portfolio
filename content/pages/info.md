@@ -106,7 +106,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Discord
+            label: Discord Channel
             url: 'https://discord.gg/XNPpvsg4 '
         styles:
           self:
