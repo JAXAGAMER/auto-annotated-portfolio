@@ -180,11 +180,10 @@ sections:
     variant: variant-a
     subtitle: 'Contact:'
     colors: colors-f
-    text: |+
-      yaxyoyevjaxonnbek\@gmaqil.com
+    text: |
+      [yaxyoyevjaxonbek@gmail.com](mailto:yaxyoyevjaxonnbek@gmaqil.com)
 
       email me!
-
   - type: DividerSection
     styles:
       self:
