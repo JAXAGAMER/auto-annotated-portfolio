@@ -17,3 +17,7 @@ featuredImage:
   elementId: ''
 ---
 Hello guys, welcome to my 3rd project. I made it in a class,  while doing tasks and it makes your texts go backwards like:
+
+Hello / olleH 
+
+i think it's cool, especially when you wannt to backward your name :D
