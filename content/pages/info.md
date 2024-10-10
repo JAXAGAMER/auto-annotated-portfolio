@@ -236,18 +236,11 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: |+
+          **2022 : october/september**
 
-          * ba computer sciense at a semi fancy school
+          *   got the first certificates from sololearn : Css , Js , HTML
 
-          **2014**
-
-          * react certificate somewhere
-
-          **2011**
-
-          * my highschool
         styles:
           self:
             textAlign: left
