@@ -16,7 +16,9 @@ featuredImage:
   caption: Caption of the image
   elementId: ''
 ---
-> <div style="text-align: left">*</div>
+> Hello guys, welcome to my 3rd project. I made it in a class,  while doing tasks and it makes your texts go backwards like:
 >
+> <div style="text-align: left">hello / olleH </div>
 >
+> I think its a cool thing especially if you wat to backwards your own name :D
 
