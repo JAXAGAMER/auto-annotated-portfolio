@@ -275,6 +275,7 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
+    title: "my career\U0001F60A"
   - type: DividerSection
     styles:
       self:
