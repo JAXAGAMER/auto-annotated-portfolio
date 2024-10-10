@@ -11,7 +11,7 @@ media:
   altText: Project image
 featuredImage:
   type: ImageBlock
-  url: /images/image_2024-10-08_18-03-04.png
+  url: /images/Software-developer.jpg
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
