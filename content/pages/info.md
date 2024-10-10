@@ -201,26 +201,31 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
+        text: |+
           **Current**
 
-          * freelance @freelance.me
+          *   https\://kwork.ru/user/jaxagamerno1
 
-          **2018-2021**
+          **2023** 
 
-          * fullstack at this startup
+          *   got my first pc??...
+
+          **2021-2022**
+
+          *   learning about coding
 
           **2015**
 
-          * senior front-end at this place
+          *   6 years old my first yeear of school...
 
           **2013**
 
-          * intern developer at a big company
+          *   turned 4 years old ain't learing about pc yet...
 
           **2011**
 
-          * flipping burgers
+          *   turned 3 years old
+
         styles:
           self:
             textAlign: left
