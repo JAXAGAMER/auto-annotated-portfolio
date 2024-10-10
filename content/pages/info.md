@@ -86,7 +86,7 @@ sections:
         actions:
           - type: Link
             label: Twitter
-            url: 'https://twitter.com/'
+            url: 'https://x.com/JAXA_GAMER'
         styles:
           self:
             textAlign: left
