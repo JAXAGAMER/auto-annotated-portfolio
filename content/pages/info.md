@@ -107,7 +107,7 @@ sections:
         actions:
           - type: Link
             label: Discord
-            url: 'https://discord.com/channels/@me'
+            url: 'https://discord.gg/XNPpvsg4 '
         styles:
           self:
             textAlign: left
