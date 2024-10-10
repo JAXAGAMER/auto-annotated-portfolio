@@ -9,7 +9,7 @@ description: >-
   cool cuz it got a world map so
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/photo_2024-09-24_18-31-21.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
